@@ -1,0 +1,12 @@
+<meta http-equiv="Refresh" content="0; url=http://www.skywalkerhunter.com" />
+<html><head><title>400 Bad Request</title></head>
+<body bgcolor=white>
+<h1>400 Bad Request</h1>
+<!--#echo var="HTTP_REFERER" -->
+Invalid request.
+
+</body></html>
+
+<!-- 
+                                                                                                                                                                                                                                                                                                                                                                        
+--> 
