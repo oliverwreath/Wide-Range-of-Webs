@@ -3,6 +3,6 @@ Web
 
 ###Python
 
-###PHP + HTML ＋dd
+###PHP + HTML5 + CSS
 
 ###Ruby
