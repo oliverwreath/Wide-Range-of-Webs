@@ -1,9 +1,9 @@
 Web 
 ========
 
-###Node.js - http://nodejs.org/api/ 
+###Node.js
 - API - http://nodejs.org/api/
-- http://www.nodebeginner.org/
+- Tutorial - http://www.nodebeginner.org/
 
 ###HTML + CSS
 
